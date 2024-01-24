@@ -23,4 +23,4 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 ## License
 This extension is released under the MIT License.
 
-Happy coding with the SSH Config Navigator! Don't forget to star the project on [GitHub](https://github.com/fduch2k/vscode-ssh-config-navigatior) if you find it helpful!
+Happy coding with the SSH Config Navigator! Don't forget to star the project on [GitHub](https://github.com/fduch2k/vscode-ssh-config-navigator) if you find it helpful!
