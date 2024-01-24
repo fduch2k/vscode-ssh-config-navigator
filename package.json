@@ -1,11 +1,19 @@
 {
-    "name": "vscode.ssh-config-navigator",
+    "name": "vscode-ssh-config-navigator",
     "displayName": "SSH config navigator",
     "description": "Allow to navigate ssh config by standard symbol info feature",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.80.0"
+    "author": {
+        "name": "Alexander Hramov",
+        "email": "alexander.hramov@gmail.com"
     },
+    "version": "1.0.0",
+    "repository": {
+        "url": "https://github.com/fduch2k/vscode-ssh-config-navigator"
+    },
+    "engines": {
+        "vscode": "^1.83.0"
+    },
+    "publisher": "fduch2k",
     "categories": [
         "Other"
     ],
