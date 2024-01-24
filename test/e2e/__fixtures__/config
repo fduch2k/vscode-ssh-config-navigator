@@ -1,0 +1,39 @@
+Host host1
+    HostName example1.com
+    User [your_username]
+
+Host host2
+    HostName example2.com
+    User [your_username]
+
+Host host3
+    HostName example3.com
+    User [your_username]
+
+Host host4
+    HostName example4.com
+    User [your_username]
+
+Host host5
+    HostName example5.com
+    User [your_username]
+
+Host host6
+    HostName example6.com
+    User [your_username]
+
+Host host7
+    HostName example7.com
+    User [your_username]
+
+Host host8
+    HostName example8.com
+    User [your_username]
+
+Host host9
+    HostName example9.com
+    User [your_username]
+
+Host host10 host11 host12 "host13" 'host14'
+    HostName example10.com
+    User [your_username]

@@ -1,0 +1,18 @@
+{
+    "extends": "./tsconfig.base.json",
+    "compilerOptions": {
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+        "noEmit": true,
+        "isolatedModules": true
+    },
+    "include": [
+        "src/**/*",
+        "test/**/*"
+    ],
+    "exclude": [
+        "**/coverage",
+        "test/e2e/workspace"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "extends": "./tsconfig.base.json",
+    "compilerOptions": {
+        "rootDir": "src"
+    },
+    "include": [
+        "src/**/*",
+        "types/*.d.ts"
+    ],
+    "exclude": [
+        "**/coverage",
+        "**/__tests__",
+        "**/__mocks__",
+        "test/types.d.ts"
+    ]
+}
